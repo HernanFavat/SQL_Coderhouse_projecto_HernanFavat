@@ -1,0 +1,25 @@
+,dim_users,,,,,
+userid,u__email,first_name,last_name,u__createddate,isactive,u__type
+1,john@management.com,John,Doe,01/01/2023,1,Reseller
+2,marta_gomez@management.com,Marta,Gomez,01/07/2023,1,Sales Rep
+3,fer_rodriguez@management.com,Fernando,Rodriguez,01/12/2023,1,Technician
+4,emma@management.com,Emma,Johnson,20/03/2023,1,Reseller
+5,david_wong@management.com,David,Wong,25/04/2023,1,Technician
+6,laura_smith@management.com,Laura,Smith,30/05/2023,1,Sales Rep
+7,alex@management.com,Alex,Martinez,05/06/2023,1,Technician
+8,jessica@management.com,Jessica,Brown,10/07/2023,1,Reseller
+9,michael@management.com,Michael,Davis,15/08/2023,1,Sales Rep
+10,sophia@management.com,Sophia,Wilson,20/09/2023,1,Reseller
+11,adam@management.com,Adam,Anderson,25/10/2023,1,Technician
+12,olivia@management.com,Olivia,Taylor,30/11/2023,1,Sales Rep
+13,william@management.com,William,Thomas,05/12/2023,1,Reseller
+14,emily@management.com,Emily,Harris,10/01/2024,1,Sales Rep
+15,james@management.com,James,Walker,15/02/2024,1,Technician
+16,ava@management.com,Ava,White,20/03/2024,1,Reseller
+17,benjamin@management.com,Benjamin,Jackson,25/04/2024,1,Sales Rep
+18,harper@management.com,Harper,Moore,30/05/2024,1,Technician
+19,emma@management.com,Emma,Martinez,05/06/2024,1,Reseller
+20,logan@management.com,Logan,Lee,10/07/2024,1,Sales Rep
+21,grace@management.com,Grace,Perez,15/08/2024,1,Technician
+22,noah@management.com,Noah,Gonzalez,20/09/2024,1,Reseller
+23,chloe@management.com,Chloe,Rodriguez,25/10/2024,1,Sales Rep
