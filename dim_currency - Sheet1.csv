@@ -1,0 +1,13 @@
+dim_currency,,,
+currency_code,currency_name,currency_rate,c__createddate
+USD,United States Dollar,1,2023-04-10
+INR,Indian Rupee,0.014,2024-01-10
+JPY,Japanese Yen,0.0093,2024-02-15
+KRW,South Korean Won,0.00088,2024-03-20
+CNY,Chinese Yuan,0.16,2024-04-25
+SGD,Singapore Dollar,0.74,2024-05-30
+AUD,Australian Dollar,0.77,2024-06-05
+NZD,New Zealand Dollar,0.71,2024-07-10
+TWD,New Taiwan Dollar,0.036,2024-08-15
+THB,Thai Baht,0.032,2024-08-15
+PHP,Philippine Peso,0.02,2024-07-15
