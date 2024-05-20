@@ -29,7 +29,7 @@ Además, el seguimiento del progreso a través de registros detallados, como el 
 
 ## Diagrama de entidad - Reverse Engineer
 
-<div style="text-align: center;">
+<div>
     <img src="https://ibb.co/L182Z1b"><img src="https://i.ibb.co/JHKMsH0/Screenshot-2024-05-19-194607.png" alt="Screenshot-2024-05-19-194607" border="0"></a>
 </div>
 
