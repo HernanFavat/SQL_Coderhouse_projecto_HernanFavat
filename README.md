@@ -35,7 +35,7 @@ Además, el seguimiento del progreso a través de registros detallados, como el 
 
 
 
-## Listado de tablas y atributos
+## Listado de tablas y atributos (Ningun atributo corresponde a inforacion real de usuarios, es una lista de fake users)
 
                             DIM_CURRENCY 
     (PK)
