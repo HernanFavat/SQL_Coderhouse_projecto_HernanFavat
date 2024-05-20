@@ -1,6 +1,6 @@
 # SQL_Coderhouse_projecto_HernanFavat
-CREATE DATABASE pipeline_management;
 
+CREATE DATABASE pipeline_management;
 USE pipeline_management;
 
 CREATE TABLE dim_users (
@@ -51,13 +51,14 @@ CREATE TABLE facts_account (
     PRIMARY KEY (accountid),
     FOREIGN KEY (primary_contactid) REFERENCES dim_users(userid)
 );
+
 INSERT INTO facts_account (a__name, a__number, a__country, primary_contactid, a__createddate)
 VALUES
     ('ABC Corporation', 'ABC123', 'United States', 1, '2023-05-15'),
     ('XYZ Enterprises', 'XYZ456', 'Canada', 2, '2023-06-20'),
     ('123 Industries', '123789', 'United Kingdom', 3, '2023-07-25'),
     ('123 Industries', '123789', 'United Kingdom', 3, '2023-07-25'),
-	('PQR Solutions', 'PQR123', 'India', 4, '2023-11-15'),
+    ('PQR Solutions', 'PQR123', 'India', 4, '2023-11-15'),
     ('LMN Tech', 'LMN789', 'Japan', 5, '2023-12-20'),
     ('XYZ Innovations', 'XYZ789', 'South Korea', 6, '2024-01-25'),
     ('ABC Tech', 'ABC123', 'China', 7, '2024-02-10'),
@@ -180,6 +181,7 @@ VALUES
     ('THB', 'Thai Baht', 0.032, '2024-08-15'), 
     ('PHP', 'Philippine Peso', 0.020, '2024-07-15');
 
+-- Establezco nuevas FK para currency codes
 ALTER TABLE facts_opportunities
 ADD CONSTRAINT fk_opportunity_currency
 FOREIGN KEY (currencycode)
