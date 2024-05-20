@@ -29,13 +29,15 @@ Además, el seguimiento del progreso a través de registros detallados, como el 
 
 ## Diagrama de entidad - Reverse Engineer
 
-<div>
+<center>
     <img src="https://ibb.co/L182Z1b"><img src="https://i.ibb.co/JHKMsH0/Screenshot-2024-05-19-194607.png" alt="Screenshot-2024-05-19-194607" border="0"></a>
 </div>
-
+</center>
 
 
 ## Listado de tablas y atributos (Ningun atributo corresponde a inforacion real de usuarios, es una lista de fake users)
+
+
 
                             DIM_CURRENCY 
     (PK)
